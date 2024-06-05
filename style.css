@@ -1,0 +1,24 @@
+body{
+    background:linear-gradient(rgb(172, 255, 233) 0%, rgb(255, 255, 255) 100%);
+}
+#h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+}
+#h4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: initial;
+}
+.copy_right_footer{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    text-align:center;
+}
+#img{
+    box-shadow: 0 6px 8px 0 black;
+}
+img:hover{
+    border-radius:140px;
+}
